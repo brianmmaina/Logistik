@@ -1,0 +1,6 @@
+### 2. **Design Documentation and Test Plan**
+- Comprehensive design and test strategies for the program:
+  - Flowcharts and pseudocode for process logic.
+  - User interface designs for both manager and driver panels.
+  - Detailed test plans, covering login validation, input restrictions, data visualization, and refresh functionality.
+
