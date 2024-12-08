@@ -1,6 +1,6 @@
 ## Documentation
 
-### 1. **[Justification of Technical Techniques](Technique Justification/Justification of Technical Techniques)**
+### 1. **Justification of Technical Techniques**
 - Details the technical approaches, including MySQL database connection, data validation, and graphical representation using libraries like JFreeChart.
 - Key techniques:
   - Use of `DriverManager` for database connectivity.
