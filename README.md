@@ -71,9 +71,12 @@ LogiStek replaces Excel and paper logs with a desktop GUI that lets managers tra
 
 ## Demo Video
 
-Watch the full demo walkthrough here:  
-[![LogiStek Demo](https://github.com/brianmmaina/Logistik/blob/main/Video%20Walkthrough%20-%20Backend%20and%20GUI.mp4))  
-*(Click the image to play the video.)*
+Watch the full demo on Google Drive:  
+<p align="center">
+  <a href="https://drive.google.com/file/d/1B9PVroM0zxvtQVcLebRjrsdDFXchbuGQ/view?usp=sharing">
+    <img src="Design_and_test_plan/demo-thumb.jpg" width="480" alt="LogiStek Demo">
+  </a>
+</p>
 
 ---
 
